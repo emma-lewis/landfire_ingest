@@ -56,9 +56,6 @@ Validates integrity of LANDFIRE files in S3 using MD5 checksums.
 python checksum_landfire.py
 ```
 
-### `landfire_wcs_query.py`
-Example script for querying LANDFIRE Web Coverage Service (WCS).
-
 ## Prerequisites
 
 1. **Python 3.x** with required packages:
